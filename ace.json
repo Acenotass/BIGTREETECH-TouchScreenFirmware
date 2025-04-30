@@ -36,7 +36,7 @@
     "avatar-background-colors": ["#458588", "#b16286", "#689d6a"]
   },
   "compound": {
-    "--cpd-style-message-info": "display: none !important",
-    "--cpd-style-text-secondary": "display: none !important"
+    "--cpd-color-text-secondary": "rgba(0,0,0,0)",
+    "--cpd-color-surface-quinary": "rgba(0,0,0,0)"
   }
 }
